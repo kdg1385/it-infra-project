@@ -1,1 +1,1 @@
-# it-inpra-project
+# it-infra-project
